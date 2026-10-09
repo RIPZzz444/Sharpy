@@ -13,4 +13,7 @@
     <SourceRoot Include="C:\Users\Стасик\.nuget\packages\" />
     <SourceRoot Include="C:\Program Files (x86)\Microsoft Visual Studio\Shared\NuGetPackages\" />
   </ItemGroup>
+  <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Import Project="$(NuGetPackageRoot)nunit\5.0.0\build\NUnit.props" Condition="Exists('$(NuGetPackageRoot)nunit\5.0.0\build\NUnit.props')" />
+  </ImportGroup>
 </Project>

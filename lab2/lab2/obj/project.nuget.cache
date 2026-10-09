@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "+Rfj8LsAkis=",
+  "dgSpecHash": "au7Q/6bLn6k=",
   "success": true,
   "projectFilePath": "C:\\Users\\Стасик\\source\\repos\\Sharpy\\lab2\\lab2\\lab2.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Стасик\\.nuget\\packages\\nunit\\5.0.0\\nunit.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

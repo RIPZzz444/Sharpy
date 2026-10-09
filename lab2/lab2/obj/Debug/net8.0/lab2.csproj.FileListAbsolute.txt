@@ -13,3 +13,7 @@ C:\Users\Стасик\source\repos\Sharpy\lab2\lab2\obj\Debug\net8.0\refint\lab2
 C:\Users\Стасик\source\repos\Sharpy\lab2\lab2\obj\Debug\net8.0\lab2.pdb
 C:\Users\Стасик\source\repos\Sharpy\lab2\lab2\obj\Debug\net8.0\lab2.genruntimeconfig.cache
 C:\Users\Стасик\source\repos\Sharpy\lab2\lab2\obj\Debug\net8.0\ref\lab2.dll
+C:\Users\Стасик\source\repos\Sharpy\lab2\lab2\obj\Debug\net8.0\lab2.csproj.AssemblyReference.cache
+C:\Users\Стасик\source\repos\Sharpy\lab2\lab2\bin\Debug\net8.0\nunit.framework.dll
+C:\Users\Стасик\source\repos\Sharpy\lab2\lab2\bin\Debug\net8.0\nunit.framework.legacy.dll
+C:\Users\Стасик\source\repos\Sharpy\lab2\lab2\obj\Debug\net8.0\lab2.csproj.Up2Date
